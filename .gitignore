@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@coryb08 
-TheCherno
-/
-Hazel
-390
-6k
-897
-Code
-Issues
-31
-Pull requests
-46
-Actions
-Projects
-1
-Wiki
-Security
-Insights
-Hazel/.gitignore
-@3x3y3z3t
-3x3y3z3t Add python scripts to install Premake rather than storing the exe on …
-…
-Latest commit 2210e89 on Jun 24
- History
- 6 contributors
-@TheCherno@LovelySanta@EddeDev@HerrDingenz@CybernetHacker14@3x3y3z3t
-18 lines (15 sloc)  220 Bytes
-  
 # Binaries
 **/bin/
 bin-int/
@@ -51,16 +16,3 @@ bin-int/
 Hazel/vendor/VulkanSDK
 Hazelnut/assets/cache
 scripts/__pycache__
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
