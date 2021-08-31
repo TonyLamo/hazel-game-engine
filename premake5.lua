@@ -33,7 +33,7 @@ project "Hazel"
 	filter "system:windows"
 		cppdialect "C++17"
 		staticruntime "On"
-		systemversion "latest"
+		systemversion "10.0.17763.0"
 
 		defines
 		{
@@ -86,7 +86,7 @@ project "Sandbox"
 	filter "system:windows"
 		cppdialect "C++17"
 		staticruntime "On"
-		systemversion "latest"
+		systemversion "10.0.17763.0"
 
 		defines
 		{
